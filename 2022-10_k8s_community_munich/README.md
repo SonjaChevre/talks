@@ -36,6 +36,7 @@ TODO
 * OpenTelemetry sampling: https://uptrace.dev/opentelemetry/sampling.html#head-based-sampling  
 * How insecure application tracing and telemetry may lead to sensitive data and PII leakage: https://www.oxeye.io/blog/how-insecure-application-tracing-and-telemetry-may-lead-to-sensitive-data-and-pii-leakage 
 * Use OpenTelemetry processors to change collected backend data: https://www.splunk.com/en_us/blog/devops/why-to-use-opentelemetry-processors-to-change-collected-backend-data.html 
+* Tyk Gateway performance testing: https://github.com/TykTechnologies/tyk-ansible-performance-testing
 
 
 
