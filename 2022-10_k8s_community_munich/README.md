@@ -1,6 +1,7 @@
 # Is now a good time to migrate from OpenTracing to OpenTelemetry?
 
 Talk given at the [Kubernetes Community Days Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/). 
+
 Connect with the Kubernetes Community Days Munich on [Twitter](https://twitter.com/KCDMunich) and [LinkedIn](https://www.linkedin.com/company/kubernetes-community-days-munich/).
 
 ## Get in touch
