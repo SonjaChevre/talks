@@ -20,8 +20,16 @@ TODO
 * CNCF open source projects popularity: https://docs.google.com/spreadsheets/d/1JdAZrQx52m3XVzloE7KK5ciI-Xu-P-swGxdV3T9pXoY
 * OpenTelemetry Project Status: What to know (second part of the blog post): https://medium.com/@team_Aspecto/profiling-with-opentelemetry-say-what-now-language-support-status-78f94c7557a7
 * Keynote: State of the Community - Morgan McLean & Alolita Sharma, OTel Gov Cmte: https://www.youtube.com/watch?v=XUzjWITlU3c
-* 
-
+* CNCF archives the OpenTracing project: https://www.cncf.io/blog/2022/01/31/cncf-archives-the-opentracing-project/ 
+* Status OpenTelemetry: https://opentelemetry.io/status/
+* Migrating from OpenTracing to OpenTelemetry: https://opentelemetry.io/docs/migration/opentracing/
+* Envoy & OpenTelemetry support
+   * https://github.com/envoyproxy/envoy/issues/9958
+   * https://www.envoyproxy.io/docs/envoy/latest/api-v3/config/trace/v3/opentelemetry.proto#config-trace-v3-opentelemetryconfig 
+* Linkerd & OpenTelemetry support
+   * https://github.com/linkerd/linkerd2/issues/5417
+   * https://linkerd.io/2.12/tasks/distributed-tracing/ 
+   * https://github.com/linkerd/linkerd2/issues/6159 
 
 
 
