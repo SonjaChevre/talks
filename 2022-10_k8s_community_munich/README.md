@@ -16,7 +16,8 @@ TODO
  
 ## Reference and useful links
 
-
+* Distributions and vendors who natively support OpenTelemetry in their commercial products: https://opentelemetry.io/vendors
+* CNCF open source projects popularity: https://docs.google.com/spreadsheets/d/1JdAZrQx52m3XVzloE7KK5ciI-Xu-P-swGxdV3T9pXoY
 
 
 
