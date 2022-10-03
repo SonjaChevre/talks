@@ -30,6 +30,12 @@ TODO
    * https://github.com/linkerd/linkerd2/issues/5417
    * https://linkerd.io/2.12/tasks/distributed-tracing/ 
    * https://github.com/linkerd/linkerd2/issues/6159 
+* Context propagation explained: https://www.youtube.com/watch?v=gviWKCXwyvY 
+* AWS X-ray tracing: https://docs.aws.amazon.com/xray/latest/devguide/xray-concepts.html#xray-concepts-traces
+* Use attributes that can explain performance variation: https://lightstep.com/opentelemetry/best-practices/otel-attributes 
+* OpenTelemetry sampling: https://uptrace.dev/opentelemetry/sampling.html#head-based-sampling  
+* How insecure application tracing and telemetry may lead to sensitive data and PII leakage: https://www.oxeye.io/blog/how-insecure-application-tracing-and-telemetry-may-lead-to-sensitive-data-and-pii-leakage 
+* Use OpenTelemetry processors to change collected backend data: https://www.splunk.com/en_us/blog/devops/why-to-use-opentelemetry-processors-to-change-collected-backend-data.html 
 
 
 
