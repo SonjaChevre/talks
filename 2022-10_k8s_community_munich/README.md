@@ -18,6 +18,9 @@ TODO
 
 * Distributions and vendors who natively support OpenTelemetry in their commercial products: https://opentelemetry.io/vendors
 * CNCF open source projects popularity: https://docs.google.com/spreadsheets/d/1JdAZrQx52m3XVzloE7KK5ciI-Xu-P-swGxdV3T9pXoY
+* OpenTelemetry Project Status: What to know (second part of the blog post): https://medium.com/@team_Aspecto/profiling-with-opentelemetry-say-what-now-language-support-status-78f94c7557a7
+* Keynote: State of the Community - Morgan McLean & Alolita Sharma, OTel Gov Cmte: https://www.youtube.com/watch?v=XUzjWITlU3c
+* 
 
 
 
