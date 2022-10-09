@@ -1,3 +1,5 @@
+![Kubernetes Community Days Munich 2022](https://github.com/SonjaChevre/talks/blob/main/2022-10_k8s_community_munich/munich_k8s_community_days.png?raw=true)
+
 # Is now a good time to migrate from OpenTracing to OpenTelemetry?
 
 Talk given at the [Kubernetes Community Days Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/) - connect with the awesome Kubernetes Community from Munich on [Twitter](https://twitter.com/KCDMunich) and [LinkedIn](https://www.linkedin.com/company/kubernetes-community-days-munich/).
@@ -13,6 +15,8 @@ OpenTelemetry, the project created from the merger of OpenTracing and OpenCensus
 ## Slide deck
 
 [Slide deck (PDF)](https://github.com/SonjaChevre/talks/blob/main/2022-10_k8s_community_munich/OpenTracing_OpenTelemetry_Sonja_Chevre_2022-10.pdf)
+
+!(https://github.com/SonjaChevre/talks/blob/main/2022-10_k8s_community_munich/OpenTracing_OpenTelemetry_Sonja_Chevre_2022-10.pdf?raw=true)
  
 ## Reference and useful links
 
