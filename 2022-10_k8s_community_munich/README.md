@@ -15,8 +15,6 @@ OpenTelemetry, the project created from the merger of OpenTracing and OpenCensus
 ## Slide deck
 
 [Slide deck (PDF)](https://github.com/SonjaChevre/talks/blob/main/2022-10_k8s_community_munich/OpenTracing_OpenTelemetry_Sonja_Chevre_2022-10.pdf)
-
-!(https://github.com/SonjaChevre/talks/blob/main/2022-10_k8s_community_munich/OpenTracing_OpenTelemetry_Sonja_Chevre_2022-10.pdf?raw=true)
  
 ## Reference and useful links
 
